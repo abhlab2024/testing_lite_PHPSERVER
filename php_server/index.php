@@ -38,9 +38,9 @@ echo '--------------------------------------------------------------------------
 
 
 
-$servername = "mysqq.coolify.vps.boomlive.in"; // Replace with your actual server domain or IP
+
 $servername = "phpmyadmin.coolify.vps.boomlive.in"; // Replace with your actual server domain or IP
-$port = "3307"; // External port you exposed
+$port = "3303"; // External port you exposed
 $username = "root";
 $password = "abcd";
 $dbname = "testdb"; // utf8mb4_general_ci   
